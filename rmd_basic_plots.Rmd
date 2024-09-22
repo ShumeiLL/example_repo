@@ -13,6 +13,8 @@ The purpose of this file is to present a couple of basic plots using `ggplot`.
 
 First we create a dataframe containing variables for our plots.
 
+sc
+
 ```{r df_create}
 set.seed(1234)
 
